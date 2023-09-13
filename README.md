@@ -9,5 +9,7 @@ Some of the libraries we used in this project are numpy, pandas, matplotlib, plo
 
 We also attempted to build a feature of realtime forecasting for a particular selected company stock. i.e. As the we know the Stock market is live during the weekdays and the value of Stocks usually changes every few seconds. We had attempted to build a feature that accepts these new values and updates the model based on the updated data. As the model changes , the forecast also changes according to the new data and plots the updated forecast. The forecast graph scrolls forward as new data arrives at regular intervals.
 
-
+Technologies used : 
+- Python
+- Dash : Framework for creating web applications using Python
 
